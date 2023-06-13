@@ -2,4 +2,5 @@ Step 1- Choose the buisness to order pizza from
 Step 2- Choose what type of pizza you want
 Step 3- Submit the pizza order 
 Step 4- Get the pizza and eat it
-testing branch merging
+Step 5- If pizza order is wrong, call and resolve issue
+Step 6- Go get the correct pizza
